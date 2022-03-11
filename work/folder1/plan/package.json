@@ -1,0 +1,9 @@
+{
+  "name": "plan",
+  "version": "0.0.0",
+  "description": "plan",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
